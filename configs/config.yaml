@@ -1,11 +1,11 @@
 batch_size:
-  value: 8
+  value: 4
 lr:
   value: 0.001
 img_size:
   value: 256
 n_vertices:
-  value: 300 # 100
+  value: 500 # 100
 n_epochs:
   value: 100
 resize_size:
