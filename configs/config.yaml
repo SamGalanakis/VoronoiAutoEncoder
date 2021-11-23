@@ -1,12 +1,14 @@
 batch_size:
-  value: 16
+  value: 8
 lr:
-  value: 0.0005
+  value: 0.001
 img_size:
   value: 256
 n_vertices:
-  value: 100
+  value: 300 # 100
 n_epochs:
   value: 100
 resize_size:
   value : 224
+checkpoint_path:
+  value: "" #checkpoints/save.pt
