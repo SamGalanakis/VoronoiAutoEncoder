@@ -14,4 +14,4 @@ Each input coordinate is also mapped to the same embedding dimension and a query
 The model is trained with a low batch size of 4 for 12 epochs (about 2h) on the celeba hq 256 dataset but would likely work as good or better (less detailed images likely a better fit) on other datasets.
 
 
-![Result example.]("https://github.com/SamGalanakis/VoronoiAutoEncoder/blob/bead518a7374ea8da79e3e2e3bc0e5139d9b1784/result.png")
+![Result example.]("./result.png")
