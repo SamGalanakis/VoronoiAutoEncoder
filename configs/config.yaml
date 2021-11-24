@@ -1,13 +1,13 @@
 batch_size:
   value: 4
 lr:
-  value: 0.001
+  value: 0.0001
 img_size:
   value: 256
 n_vertices:
-  value: 500 # 100
+  value: 1000 # 100
 n_epochs:
-  value: 100
+  value: 10000
 resize_size:
   value : 224
 checkpoint_path:
